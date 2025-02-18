@@ -6,7 +6,7 @@ Welcome to my personal resume website! This project showcases my skills, experie
 
 Website URL
 
-The live version of this website is hosted on GitHub Pages. You can access it [here](https://github.com/Seyiranky/resume-cv-website.git
+The live version of this website is hosted on GitHub Pages. You can access it (https://c-ifegwu.github.io/Resume-cv-website/)
 
 Project Overview
 
